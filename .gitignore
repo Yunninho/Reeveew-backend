@@ -11,4 +11,6 @@
 
 .gradle/
 out/
-build/
+build/bin/
+
+bin/

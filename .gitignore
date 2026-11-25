@@ -12,3 +12,5 @@
 .gradle/
 out/
 build/
+bin/
+.idea/
